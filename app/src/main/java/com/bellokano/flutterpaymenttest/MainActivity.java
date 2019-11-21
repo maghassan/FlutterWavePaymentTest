@@ -36,8 +36,8 @@ public class MainActivity extends AppCompatActivity {
                 .setfName(fname.getText().toString())
                 .setlName(lname.getText().toString())
                 .setEmail(email.getText().toString())
-                .setPublicKey("FLWPUBK-ae46134bb4febc6e69c9fc4adae49983-X")
-                .setEncryptionKey("d87c6f7af68de0517ba760a2")
+                .setPublicKey("enterYourKeyHere")
+                .setEncryptionKey("enterYourKeyHere")
                 .setTxRef("trTest")
                 .initialize();
 
